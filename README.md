@@ -11,7 +11,7 @@ Sou um estudante em Engenharia de Software buscando aprender mais!
 ![caiodscunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodscunha&show_icons=true&theme=dracula)
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dos-santos-cunha-697665329/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiodscunha)
+
 
 <!---
 caiodscunha/caiodscunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
