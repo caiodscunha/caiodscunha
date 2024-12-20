@@ -1,5 +1,5 @@
 # Caio Cunha
-Sou um estudante em Engenharia de Software buscando aprender mais!
+Caio Cunha. Estudante de Engenharia de Software, com foco em desenvolvimento de sistemas eficientes e utilização de metodologias ágeis. Tenho interesse em resolver problemas reais por meio da tecnologia, com uma base sólida em programação e boas práticas de desenvolvimento. Busco constantemente aprimorar minhas habilidades técnicas.
 ## Tecnologias utilizadas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
