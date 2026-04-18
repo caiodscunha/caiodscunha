@@ -1,5 +1,10 @@
 # Caio Cunha
-Sou estudante de Engenharia de Software, fascinado por computadores e pelo funcionamento de sistemas. Tenho foco em desenvolvimento backend e arquitetura de sistemas, com experiência em TypeScript, Node.js, Java, Firebase e Oracle SQL. Atuo na criação de APIs, integrações e autenticação de usuários, aplicando boas práticas e metodologias ágeis para desenvolver soluções eficientes e escaláveis. Busco constantemente evoluir, aprimorando minhas habilidades técnicas e contribuindo para a criação de soluções seguras que resolvam problemas reais por meio da tecnologia.
+Desenvolvedor Backend com experiência em Java, Spring Boot, TypeScript e Node.js, atuando na construção de
+APIs REST, integrações e autenticação de usuários. Vivência prática em projetos colaborativos com MongoDB,
+Firebase (Cloud Functions, Firestore) e Oracle SQL. Complemento meu perfil técnico com conhecimentos em
+análise de dados e visualização com Power BI, DAX e Power Query. Cursando Engenharia de Software na PUC
+Campinas (2024–2027) no período matutino, aplico boas práticas de desenvolvimento, testes automatizados e
+versionamento com Git em ambientes ágeis.
 ## Tecnologias utilizadas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
